@@ -16,8 +16,8 @@ To write a fuctions to perform push,pop,display,peek in stack using array.
 ```
 /*
 C program to write a fuctions to perform push,pop,display,peek in stack using array.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: ARAVINDHAN K A P
+RegisterNumber:  212222063001
 */
 int stack[100]; 
 int size=3,top=-1,i; 
